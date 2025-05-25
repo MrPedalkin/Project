@@ -31,5 +31,5 @@ public class CustomHashSet<E> {
         return true;
     }
 
-    // Другие методы...
+    
 }
