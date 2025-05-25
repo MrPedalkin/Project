@@ -11,4 +11,5 @@
 Визуализацию результатов
 
 Структура проекта
+
 ![image](https://github.com/user-attachments/assets/8f83858f-db98-46a0-89cb-22f08ddeac90)
